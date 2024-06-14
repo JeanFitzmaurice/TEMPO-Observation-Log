@@ -84,6 +84,6 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |5/30/2024| **Solar Cal WD** Scan 8 missing (data dropout led to processing issue)
 |5/31/2024| Scan position got stuck shortly after Scan 1 (S001) began at 10:33:11Z. Scan 2 resumed as normal.
 |6/6/2024| **Solar Cal WD**
-|6/13/2024|**Solar Cal WD** **Special Observations**: Calibration campaign, scans S012,S013,S014 starting 20:40:31Z total duration 1 hour
+|6/13/2024|**Solar Cal WD** <br> **Special Observations**: Calibration campaign, scans S012,S013,S014 starting 20:40:31Z total duration 1 hour
 |6/14/2024| **Special Observations**: Calibration campaign, scans S012,S013,S014 starting 20:40Z total duration 1 hour
 
