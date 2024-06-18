@@ -64,7 +64,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |3/23/2024| **Solar Cal WD** <br> Citylight measurements for full field of regard with ~6.3s (1 coadd) exposure time, no tilting north
 |3/24-3/27/2024| Citylight measurements for full field of regard with ~6.3s (1 coadd)exposure time, no tilting north
 |3/28/2024| **Solar Cal WD**
-|3/31/2024|  During twilight (RADT) Scan 002, scan position stuck at 2024-03-31T11:03:18Z near beginning of scan.
+|3/31/2024|  During twilight (RADT) Scan 002, scan mirror stopped advancing at 2024-03-31T11:03:18Z near beginning of scan.
 |3/28-4/03/2024| Citylight measurements for full field of regard with ~6.3s (1 coadd)exposure time, no tilting north 
 |4/4/2024| **Solar Cal WD**
 |4/4-4/10/2024| Citylight measurements for full field of regard with ~3s (1 coadd)exposure time, no tilting north
