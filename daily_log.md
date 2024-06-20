@@ -5,6 +5,8 @@ Last updated on 6/18/2024
 
 For acronyms, see the TEMPO [glossary](glossary.md)
 
+For Current week's overpass predicted times at certain sites, see [OverpassTimes](https://tempo.si.edu/OverpassPrediction)
+
 |Date | Log |
 |:-| ----|
 | 10/17/2023| **SDPC v4.1** operational processing started (9 hrs)
