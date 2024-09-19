@@ -20,92 +20,33 @@ Reprocessing with SDPC v4.4 (or Version 3):
 On going…, to be done for August, 2023 - May 12, 2024
 |Date | Log |
 |:-| ----|
-|6/8/23 | 	Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~-21° FPA 29.5° FPE
-	First TEMPO measurement After TEMPO power-on 6/7
-|6/9/23 |	Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~2.9° FPA 29.5° FPE
-	Initiate dry out-Day 1
-|6/12/23| Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~22.9° FPA 31.5° FPE
-	Initiate dry out-Day 2
-|7/12/23 | Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~-20.6° FPA 49.6° FPE
-	Cool down day 3
-|7/13/23 |	Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~-21.1° FPA 50.9° FPE
-	After cool down
-|7/21/23 | Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~-21.0° FPA 51.0 ° FPE
-	 
-	7/26
-	Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~-21.0° FPA 50.6° FPE
-	 
-	7/28
-	storage/active region, 1 frame each, 100 ms, 26 coadds
-2 hours of active region dark current (active region, 26 coadds, 100 ms)
-storage/active region, 1 frame each, 100 ms, 26 coadds
-storage/active region, 10 frame each, 178 ms, 15 coadds
-dark current, 1 frame, 178 ms, 15 coadds
-	Check dark current/fpa & fpe temperature stability
-Derive bad pixel map & RTS
-	7/30
-	storage/active region, 1 frame each, 100 ms, 26 coadds
-6 hours of dark current (active region, 26 coadds, 100 ms)
-storage/active region, 1 frame each, 100 ms, 26 coadds
-	Check dark current/fpa & fpe temperature stability
-Derive bad pixel map & RTS
-	7/31
-	Dark current (1 frame, 26 coadds, 100 ms)
-	 
-	8/1
-	Dark current (1 frame, 37 coadds, 72 ms)
-First light working solar (1 frame, 37 coadds, 72 ms)
-Dark current (1 frame, 15 coadds, 178 ms)
-	First light working solar diffuser (solar measurements & its corresponding dark is placed in  a folder for previous day)
-	8/2
-	Dark current (1 frame, 37 coadds, 72 ms)
-First light reference solar (1 frame, 37 coadds, 72 ms)
-Storage/Active Dark current (1 frame each, 37 coadds, 72 ms)
-First light earth scans: 6 nearly hourly scans (1230 mirror steps, 100 ms, 26 coadds)
-Storage/Active Dark current (1 frame each, 37 coadds, 72 ms)
-	First light reference diffuser & Earth measurements
-	8/3
-	Dark current (1 frame, 37 coadds, 72 ms)
-Working solar (1 frame, 37 coadds, 72 ms)
-Dark current (1 frame, 15 coadds, 178 ms)
-	2nd working solar
-No Earth scans
-	8/4
-	Dark current (1 frame, 37 coadds, 72 ms)
-Working solar (1 frame, 37 coadds, 72 ms)
+|6/8/23| Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~-21° FPA 29.5° FPE <br> **First TEMPO measurement after TEMPO power-on 6/7/23** |
+|6/9/23| Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~2.9° FPA 29.5° FPE, Initiate dryout-Day 1
+|6/12/23| Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~22.9° FPA 31.5° FPE Initiate dry out-Day 2 
+|7/12/23 | Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~-20.6° FPA 49.6° FPE, Cool down day 3 
+|7/13/23 |Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~-21.1° FPA 50.9° FPE, After cool down
+|7/21/23 | Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~-21.0° FPA 51.0 ° FPE |
+|7/26/23 |	Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~-21.0° FPA 50.6° FPE
+|7/28/23|	storage/active region, 1 frame each, 100 ms, 26 coadds, 2 hours of active region dark current (active region, 26 coadds, 100 ms), storage/active region, 1 frame each, 100 ms, 26 coadds, storage/active region, 10 frame each, 178 ms, 15 coadds, dark current, 1 frame, 178 ms, 15 coadds, Check dark current/fpa & fpe temperature stability, Derive bad pixel map & RTS
+|7/30/23| storage/active region, 1 frame each, 100 ms, 26 coadds, 6 hours of dark current (active region, 26 coadds, 100 ms), storage/active region, 1 frame each, 100 ms, 26 coadds, Check dark current/fpa & fpe temperature stability, Derive bad pixel map & RTS
+|7/31/23| Dark current (1 frame, 26 coadds, 100 ms)
+|8/1/23| Dark current (1 frame, 37 coadds, 72 ms), **First light working solar** (1 frame, 37 coadds, 72 ms), Dark current (1 frame, 15 coadds, 178 ms), 	First light working solar diffuser (solar measurements & its corresponding dark is placed in  a folder for previous day)
+|8/2/23| Dark current (1 frame, 37 coadds, 72 ms), **First light reference solar** (1 frame, 37 coadds, 72 ms), Storage/Active Dark current (1 frame each, 37 coadds, 72 ms), **First light earth scans**: 6 nearly hourly scans (1230 mirror steps, 100 ms, 26 coadds), Storage/Active Dark current (1 frame each, 37 coadds, 72 ms), First light reference diffuser & Earth measurements
+|8/3/23| Dark current (1 frame, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms), Dark current (1 frame, 15 coadds, 178 ms), **2nd working solar**, **No Earth scans**
+|8/4/23|  Dark current (1 frame, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms), 
 7 sets of dark (0 exposure time, storage with 37 coadds/72 ms, active with 72ms/37coadds, active with 100 ms/26 coadds, active with 178 ms/15 coadds,active with 2.67s/1 coadd, active with 6 s/1 coadd)
-11 hourly Earth scans (each Earth scan is followed by Storage/active dark current with 100 ms/26 coadds)
-Another 7 sets of dark (mostly occur 8/5 T00-T01, still 8/4 in ET)
-	Part of Instrument Characterization Analysis (ICA) load 1
-3rd working solar
-Two times of 7 sets of dark current measurements to understand dark vs integration time, storage region dark current, storage region dark current during readout
-11 hourly Earth scans
- 
-Dark current measurements after each hourly scan (check dark current stability)
-	8/5
-	Storage/active dark current with 100 ms/26 coadds
+11 hourly Earth scans (each Earth scan is followed by Storage/active dark current with 100 ms/26 coadds), Another 7 sets of dark (mostly occur 8/5 T00-T01, still 8/4 in ET), Part of Instrument Characterization Analysis (ICA) load 1, **3rd working solar**, Two times of 7 sets of dark current measurements to understand dark vs integration time, storage region dark current, storage region dark current during readout, **11 hourly Earth scans**,  Dark current measurements after each hourly scan (check dark current stability)
+|8/5/23| Storage/active dark current with 100 ms/26 coadds, **11 hourly Earth scans**, Storage/active dark current with 100 ms/26 coadds, 	Part of ICA load 1
+|8/6/23|Dark current (1 frame, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms), 
 11 hourly Earth scans
 Storage/active dark current with 100 ms/26 coadds
-	Part of ICA load 1
- 
-	8/6
-	Dark current (1 frame, 37 coadds, 72 ms)
-Working solar (1 frame, 37 coadds, 72 ms)
+Part of ICA load 1
+|8/7/23| Dark current (1 frame, 37 coadds, 72 ms), Working solar (1 frame, 37 coadds, 72 ms)
 Storage/active dark current with 100 ms/26 coadds
 11 hourly Earth scans
 Storage/active dark current with 100 ms/26 coadds
-	Part of ICA load 1
- 
-	8/7
-	Dark current (1 frame, 37 coadds, 72 ms)
-Working solar (1 frame, 37 coadds, 72 ms)
-Storage/active dark current with 100 ms/26 coadds
-11 hourly Earth scans
-Storage/active dark current with 100 ms/26 coadds
-	Part of ICA load 1
- 
-	8/8
-	Dark current (1 frame, 37 coadds, 72 ms)
+Part of ICA load 1 (Instrument Characterization and Analysis)
+|8/8/23|Dark current (1 frame, 37 coadds, 72 ms)
 Working solar (1 frame, 37 coadds, 72 ms
 Dark current (1 frame, 15 coadds, 178 ms)
 Dark current (50 frames, 26 coadds, 100 ms)
@@ -114,23 +55,18 @@ Dark current (50 frames, 26 coadds, 100 ms)
 	Part of ICA load 2
 The 3 tables (scan profile, CBM, CSM) were loaded individually. On 08/08, 6 hours of Earth Imaging with IRU Compensation Enabled.
 On 08/09, Full ConOps Imaging with IRU Compensation Enabled
-	8/9
-	Dark current (1 frame, 37 coadds, 72 ms)
+|8/9/29| Dark current (1 frame, 37 coadds, 72 ms)
 Working solar (1 frame, 37 coadds, 72 ms
 Dark current (50 frames, 26 coadds, 100 ms)
 11 hourly Earth scans
 Dark current (50 frames, 26 coadds, 100 ms)
-	Part of ICA load 2
- 
-	8/10
-	Dark current (1 frame, 37 coadds, 72 ms)
+Part of ICA load 2
+|8/10/23| Dark current (1 frame, 37 coadds, 72 ms)
 Working solar (1 frame, 37 coadds, 72 ms
 Dark current (1 frame, 15 coadds, 178 ms)
 	Part of ICA load 2
-No Earth Scans
- 
-	8/11
-	Dark current (1 frame, 37 coadds, 72 ms)
+**No Earth Scans**
+|8/11/23| Dark current (1 frame, 37 coadds, 72 ms)
 Working solar (1 frame, 37 coadds, 72 ms)
 Dark current (50 frames, 26 coadds, 100 ms)
 11 hourly Earth scans (Uses step sizes of 62.5, 63.6, and 64.6 urad during the middle 6 scans of the day., 61.5 urad for other scans)
