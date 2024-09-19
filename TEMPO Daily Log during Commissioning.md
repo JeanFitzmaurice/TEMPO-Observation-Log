@@ -100,8 +100,8 @@ Optimized scanning: 23 Earth scans
 Step size characterization in the middle (40%, 60%, 80%, 100%) over New York. Texas, and LA regions,
 |9/6/23| **Working solar** (1 frame, 37 coadds, 72 ms)
 Optimized scanning: 20 Earth scans
-|9/7/23|**Working solar* (1 frame, 37 coadds, 72 ms), Optimized scanning: 20 Earth scans
-|9/8/23| **TEMPO in safe mode ** No data due to safe mode
+|9/7/23|**Working solar** (1 frame, 37 coadds, 72 ms), Optimized scanning: 20 Earth scans
+|9/8/23| **TEMPO in safe mode**  No data due to safe mode
 |9/9/23| Working solar (1 frame, 37 coadds, 72 ms), Optimized scanning
 |9/10/23| Working solar (1 frame, 37 coadds, 72 ms), Optimized scanning, 10%, 20%, 50%, 100% step size characterization over New York in the middle
 |9/11/23| 2nd **Reference Solar** (1 frame, 37 coadds, 72 ms), Optimized scanning, **Interleaved special observation over Texas/hourly scans**
@@ -110,37 +110,12 @@ Optimized scanning: 20 Earth scans
 |9/13/23| **Working solar** (1 frame, 37 coadds, 72 ms), Optimized scanning
 10%, 20%, 50%, 100% step size characterization over LA in the middle
 |9/14/23| Working solar (1 frame, 37 coadds, 72 ms), Optimized scanning
-|9/15/23|
-	Working solar (1 frame, 37 coadds, 72 ms, post mid-night)
-Optimized scanning
-FOR characterization (2 times, Max dy & Min dy)
-	Part of ICA load 9
- 
-	9/16
-	Working solar (1 frame, 37 coadds, 72 ms)
-Optimized scanning
-	Part of ICA load 9
- 
-	9/17
-	Optimized scanning
-3 hours special observation over Texas (~17-20 UTC)
-	Part of ICA load 9
-Start weekly solar measurements
-	9/18
-	Optimized scanning
-FOR characterization (2 times, Max dy & Min dy)
-3 hours special observation over Texas (~17-20 UTC)
-	Part of ICA load 9
- 
-	9/19
-	Optimized scanning
-Side slither Midpoint NY, dy=4400 to 0, 1hr
-Side slither Midpoint Center FOR, dy=4400 to 0, 1 hr
-Side slither Midpoint LA, dy=4400 to 0, 1hr
-2.5 hours special observation over Texas (~17.5-20 UTC)
-	Part of ICA load 9
- 
-	9/20
+|9/15/23| **Working solar** (1 frame, 37 coadds, 72 ms, post mid-night), Optimized scanning, FOR characterization (2 times, Max dy & Min dy)
+|9/16/23| **Working solar** (1 frame, 37 coadds, 72 ms), Optimized scanning
+|9/17/23|Optimized scanning, **3 hours special observation over Texas (~17-20 UTC)**, Start weekly solar measurements
+|9/18/23| Optimized scanning FOR characterization (2 times, Max dy & Min dy), **3 hours special observation over Texas (~17-20 UTC)**
+|9/19/23|Optimized scanning, Side slither Midpoint NY, dy=4400 to 0, 1hr, Side slither Midpoint Center FOR, dy=4400 to 0, 1 hr, Side slither Midpoint LA, dy=4400 to 0, 1hr, **2.5 hours special observation over Texas (~17.5-20 UTC)**
+|9/20/23|
 	Optimized scanning
 FOR characterization (2 times, Max dy & Min dy)
 	Part of ICA load 9
