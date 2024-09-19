@@ -21,13 +21,13 @@ On going…, to be done for August, 2023 - May 12, 2024
 |Date | Log |
 |:-| ----|
 |6/8/23| Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~-21° FPA 29.5° FPE <br> **First TEMPO measurement after TEMPO power-on 6/7/23** |
-|6/9/23| Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~2.9° FPA 29.5° FPE, Initiate dryout-Day 1
-|6/12/23| Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~22.9° FPA 31.5° FPE Initiate dry out-Day 2 
-|7/12/23 | Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~-20.6° FPA 49.6° FPE, Cool down day 3 
-|7/13/23 |Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~-21.1° FPA 50.9° FPE, After cool down
-|7/21/23 | Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~-21.0° FPA 51.0 ° FPE |
-|7/26/23 |	Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~-21.0° FPA 50.6° FPE
-|7/28/23|	storage/active region, 1 frame each, 100 ms, 26 coadds, 2 hours of active region dark current (active region, 26 coadds, 100 ms), storage/active region, 1 frame each, 100 ms, 26 coadds, storage/active region, 10 frame each, 178 ms, 15 coadds, dark current, 1 frame, 178 ms, 15 coadds, Check dark current/fpa & fpe temperature stability, Derive bad pixel map & RTS
+|6/9/23| Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~2.9° FPA 29.5° FPE, <br> Initiate dryout-Day 1
+|6/12/23| Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~22.9° FPA 31.5° FPE <br> Initiate dry out-Day 2 
+|7/12/23 | Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~-20.6° FPA 49.6° FPE, <br> Cool down day 3 
+|7/13/23 |Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~-21.1° FPA 50.9° FPE, <br > After cool down
+|7/21/23 | Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~-21.0° FPA 51.0 ° FPE 
+|7/26/23 | Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~-21.0° FPA 50.6° FPE
+|7/28/23| storage/active region, 1 frame each, 100 ms, 26 coadds, 2 hours of active region dark current (active region, 26 coadds, 100 ms), storage/active region, 1 frame each, 100 ms, 26 coadds, storage/active region, 10 frame each, 178 ms, 15 coadds, dark current, 1 frame, 178 ms, 15 coadds, Check dark current/fpa & fpe temperature stability, Derive bad pixel map & RTS
 |7/30/23| storage/active region, 1 frame each, 100 ms, 26 coadds, 6 hours of dark current (active region, 26 coadds, 100 ms), storage/active region, 1 frame each, 100 ms, 26 coadds, Check dark current/fpa & fpe temperature stability, Derive bad pixel map & RTS
 |7/31/23| Dark current (1 frame, 26 coadds, 100 ms)
 |8/1/23| Dark current (1 frame, 37 coadds, 72 ms), **First light working solar** (1 frame, 37 coadds, 72 ms), Dark current (1 frame, 15 coadds, 178 ms), 	First light working solar diffuser (solar measurements & its corresponding dark is placed in  a folder for previous day)
