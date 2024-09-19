@@ -48,8 +48,7 @@ On 08/12, Solar Cal (32 degrees). Full ConOps Imaging (with 61.5 urad). On 08/13
 |8/14/23| Dark current (1 frame, 37 coadds, 72 ms), Working solar (1 frame, 37 coadds, 72 ms, 31 degree)(command load interrupted), <br> **No Earth Scans**,
 |8/15/23|Dark current (1 frame, 15 coadds, 178 ms), Dark current (50 frames, 26 coadds, 100 ms), **7 hourly Earth scans**, Dark current (50 frames, 26 coadds, 100 ms), scans with IRU compensation
 |8/16/23|Dark current (50 frames, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms), Dark current (50 frames, 26 coadds, 100 ms), **13 hourly Earth scans**, Dark current (50 frames, 26 coadds, 100 ms)
-|8/17/23| Dark current (50 frames, 26 coadds, 100 ms), wrong integration time, **Working solar** (15 frames, 37 coadds, 72 ms), Dark current (50 frames, 26 coadds, 100 ms), wrong integration time, Dark current (1 frame, 26 coadds, 100 ms), Dark current (50 frames, 26 coadds, 100 ms), <br>**6 hourly Earth scans** (4 scans for cloud saturations), Dark current (50 frames, 26 coadds, 100 ms),(interrupted after 15 frames of solar repeat)
-Command load started with 6 hourly scans to test cloud saturation (including 50ms+51 coadds, 178ms/15 coadds, 50ms+51 coadds, 178ms/15 coadds, 2 scans of 100ms/26 coadds)
+|8/17/23| Dark current (50 frames, 26 coadds, 100 ms), wrong integration time, **Working solar** (15 frames, 37 coadds, 72 ms), Dark current (50 frames, 26 coadds, 100 ms), wrong integration time, Dark current (1 frame, 26 coadds, 100 ms), Dark current (50 frames, 26 coadds, 100 ms), <br>**6 hourly Earth scans** (4 scans for cloud saturations), Dark current (50 frames, 26 coadds, 100 ms),(interrupted after 15 frames of solar repeat), Command load started with 6 hourly scans to test cloud saturation (including 50ms+51 coadds, 178ms/15 coadds, 50ms+51 coadds, 178ms/15 coadds, 2 scans of 100ms/26 coadds)
 |8/18/23| Dark current (50 frames, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms),
 Special dark: 50 images 1 coadd at 14 ITs, Dark current (50 frames, 26 coadds, 100 ms),<br>
 **19 Earth scans including optimized in morning/afternoon**, Dark current (50 frames, 26 coadds, 100 ms),
@@ -67,141 +66,51 @@ Dark current (50 frames, 26 coadds, 100 ms),
 Lost 3:38 hours of data and dark after earth scans
 **Special observations over CA-Arizona** (but with optimized scans in the east coast in the morning)
 Lost 3:38 hours of data
-|8/24/23| 
-	Dark current (50 frames, 37 coadds, 72 ms),
-Working solar (1 frame, 37 coadds, 72 ms)
-Dark current (1 frame, 178 ms, 15 coadds)
- 
-	Solar is taken as part of ICA load 5, ICA load 6 sent
-No Earth Scans
-	8/25
-	Dark current (50 frames, 37 coadds, 72 ms),
+|8/24/23| Dark current (50 frames, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms)
+Dark current (1 frame, 178 ms, 15 coadds), <br> 
+**No Earth Scans**
+|8/25/23|Dark current (50 frames, 37 coadds, 72 ms),
 Working solar (1 frame, 37 coadds, 72 ms) Solar angle 30
-13 hourly Earth scans
-	Part of ICA load 6
- 
-	8/26
-	Dark current (50 frames, 37 coadds, 72 ms),
+**13 hourly Earth scans**
+|8/26/23|Dark current (50 frames, 37 coadds, 72 ms),
 Working solar (1 frame, 37 coadds, 72 ms ms) Solar angle 29.5
-11 hourly Earth scans
-	Part of ICA load 6 (CoNOPS scanning: 11.2 hours due to maneuver)
-	8/27
-	Dark current (50 frames, 37 coadds, 72 ms),
-Working solar (1 frame, 37 coadds, 72 ms) Solar angle 30
-42 Earth scans
-	Part of ICA load 6
-Interleaved 1hr + 1hr Special Observation, 13.64 hrs
-	8/28
-	Dark current (50 frames, 37 coadds, 72 ms),
+11 hourly Earth scans (CoNOPS scanning: 11.2 hours due to s/c maneuver
+|8/27/23|Dark current (50 frames, 37 coadds, 72 ms),
+**Working solar** (1 frame, 37 coadds, 72 ms) Solar angle 30
+42 Earth scans, Interleaved 1hr + 1hr Special Observation, 13.64 hrs
+|8/28/23|Dark current (50 frames, 37 coadds, 72 ms),
 Working solar (1 frame, 37 coadds, 72 ms) Solar angle 30.5
-17 Earth scans
-	Part of ICA load 6
-Optimized scanning, 12.75hrs
-	8/29
-	No WD solar
-20 Earth scans
-	Part of ICA load 6
-Optimized scanning, 14.5hrs
-	8/30
-	Dark current (50 frames, 37 coadds, 72 ms),
-Working solar (1 frame, 37 coadds, 72 ms ms)
-13 hourly Earth scans
-	Part of ICA load 6, 13.47hrs
-CoNOPS scanning
-Including twilights for supermoon
-	8/31
-	Dark current (50 frames, 37 coadds, 72 ms),
+17 Earth scans, Optimized scanning, 12.75hrs
+|8/29/23| No WD solar, 20 Earth scans, Optimized scanning, 14.5hrs
+|8/30/23| Dark current (50 frames, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms ms),<br>
+13 hourly Earth scans 13.47hrs, CoNOPS scanning, Including twilights for supermoon
+|8/31/23|Dark current (50 frames, 37 coadds, 72 ms), **Working solar **(1 frame, 37 coadds, 72 ms), 20 Earth scans, Optimized scanning, 14.50 hrs
+|9/1/23|Dark current (50 frames, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms), <br>
+**19 Earth scans **(S014 missing), Optimized scanning in the middle, 13.50 hrs, Characterization of FOR, E/W (2 times)
+|9/2/23|Dark current (50 frames, 37 coadds, 72 ms),Working solar (1 frame, 37 coadds, 72 ms), 20 Earth scans, Optimized scanning, 13.50 hrs
+|9/3/23|Dark current (50 frames, 37 coadds, 72 ms),
 Working solar (1 frame, 37 coadds, 72 ms)
-20 Earth scans
-	Part of ICA load 6
-Optimized scanning, 14.50 hrs
-ICA load 7, push command sent in the afternoon to start at 22:45EDT
-	9/1
-	Dark current (50 frames, 37 coadds, 72 ms),
+20 Earth scans, Optimized scanning
+|9/4/23| Dark current (50 frames, 37 coadds, 72 ms),
 Working solar (1 frame, 37 coadds, 72 ms)
-19 Earth scans (S014 missing)
-	Part of ICA load 7
-Optimized scanning in the middle, 13.50 hrs
-Characterization of FOR, E/W (2 times)
-	9/2
-	Dark current (50 frames, 37 coadds, 72 ms),
-Working solar (1 frame, 37 coadds, 72 ms)
-20 Earth scans
-	Part of ICA load 7
-Optimized scanning, 13.50 hrs
-	9/3
-	Dark current (50 frames, 37 coadds, 72 ms),
-Working solar (1 frame, 37 coadds, 72 ms)
-20 Earth scans
-	Part of ICA load 7
-Optimized scanning
-	9/4
-	Dark current (50 frames, 37 coadds, 72 ms),
-Working solar (1 frame, 37 coadds, 72 ms)
-20 Earth scans
-	Part of ICA load 7
-Optimized scanning
- 
-	9/5
-	Dark current (50 frames, 37 coadds, 72 ms),
+20 Earth scans, Optimized scanning
+|9/5/23|Dark current (50 frames, 37 coadds, 72 ms),
 Working solar (1 frame, 37 coadds, 72 ms)
 Optimized scanning: 23 Earth scans
 Step size characterization in the middle (40%, 60%, 80%, 100%) over New York. Texas, and LA regions,
-	Part of ICA load 7
- 
-	9/6
-	Dark current (50 frames, 37 coadds, 72 ms),
-Working solar (1 frame, 37 coadds, 72 ms)
+|9/6/23| **Working solar** (1 frame, 37 coadds, 72 ms)
 Optimized scanning: 20 Earth scans
-	Part of ICA load 7
- 
-	9/7
-	Dark current (50 frames, 37 coadds, 72 ms),
-Working solar (1 frame, 37 coadds, 72 ms)
-Optimized scanning: 20 Earth scans
-	Part of ICA load 7
- 
-	9/8
-	TEMPO in safe mode
-	Part of ICA load 8
-No data due to safe mode
-Re-commanding
-	9/9
-	Working solar (1 frame, 37 coadds, 72 ms)
-Optimized scanning
-	Part of ICA load 8a
- 
-	9/10
-	Working solar (1 frame, 37 coadds, 72 ms)
-Optimized scanning
-10%, 20%, 50%, 100% step size characterization over New York in the middle
-	Part of ICA load 8a
- 
-	9/11
-	2nd Reference Solar (1 frame, 37 coadds, 72 ms)
-Optimized scanning
-Interleaved special observation over Texas/hourly scans
-	Part of ICA load 8a
- 
-	9/12
-	Working solar (1 frame, 37 coadds, 72 ms)
-Optimized scanning
+|9/7/23|**Working solar* (1 frame, 37 coadds, 72 ms), Optimized scanning: 20 Earth scans
+|9/8/23| **TEMPO in safe mode ** No data due to safe mode
+|9/9/23| Working solar (1 frame, 37 coadds, 72 ms), Optimized scanning
+|9/10/23| Working solar (1 frame, 37 coadds, 72 ms), Optimized scanning, 10%, 20%, 50%, 100% step size characterization over New York in the middle
+|9/11/23| 2nd **Reference Solar** (1 frame, 37 coadds, 72 ms), Optimized scanning, **Interleaved special observation over Texas/hourly scans**
+|9/12/23| **Working solar** (1 frame, 37 coadds, 72 ms), Optimized scanning
 10%, 20%, 50%, 100% step size characterization over Texas in the middle
-	Part of ICA load 8a
- 
-	9/13
-	Working solar (1 frame, 37 coadds, 72 ms)
-Optimized scanning
+|9/13/23| **Working solar** (1 frame, 37 coadds, 72 ms), Optimized scanning
 10%, 20%, 50%, 100% step size characterization over LA in the middle
-	Part of ICA load 8a
- 
-	9/14
-	Working solar (1 frame, 37 coadds, 72 ms)
-Optimized scanning
- 
-	Part of ICA load 8
-ICA load 9 sent
-	9/15
+|9/14/23| Working solar (1 frame, 37 coadds, 72 ms), Optimized scanning
+|9/15/23|
 	Working solar (1 frame, 37 coadds, 72 ms, post mid-night)
 Optimized scanning
 FOR characterization (2 times, Max dy & Min dy)
