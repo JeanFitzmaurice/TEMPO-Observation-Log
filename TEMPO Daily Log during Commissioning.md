@@ -40,9 +40,7 @@ On going…, to be done for August, 2023 - May 12, 2024
 |8/8/23|Dark current (1 frame, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms, Dark current (1 frame, 15 coadds, 178 ms), Dark current (50 frames, 26 coadds, 100 ms), **6 hourly Earth scans**, Dark current (50 frames, 26 coadds, 6 hours of Earth Imaging with IRU Compensation Enabled. 
 |8/9/29| Dark current (1 frame, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms), Dark current (50 frames, 26 coadds, 100 ms), **11 hourly Earth scans**, Dark current (50 frames, 26 coadds, 100 ms), Full ConOps imaging with IRU compensation enabled.
 |8/10/23| Dark current (1 frame, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms, Dark current (1 frame, 15 coadds, 178 ms) <br> **No Earth Scans**
-|8/11/23| Dark current (1 frame, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms), Dark current (50 frames, 26 coadds, 100 ms), **11 hourly Earth scans** (Uses step sizes of 62.5, 63.6, and 64.6 urad during the middle 6 scans of the day., 61.5 urad for other scans), Dark current (50 frames, 26 coadds, 100 ms), All imaging with IRU Compensation Enabled. <br>
-On 08/11, Solar Cal (30 degrees), ConOps Imaging, Uses step sizes of 62.5, 63.6, and 64.6 urad during the middle 6 scans of the day. Uses 61.5 urad for all other scans. <br>
-On 08/12, Solar Cal (32 degrees). Full ConOps Imaging (with 61.5 urad). On 08/13, Solar Cal (30.0 degrees). No Earth Imaging. On 08/14, Solar Cal (31 degrees). Command interrupted on 8/14 (originally planned until 8/17 solar only)
+|8/11/23| Dark current (1 frame, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms), Dark current (50 frames, 26 coadds, 100 ms), **11 hourly Earth scans** (Uses step sizes of 62.5, 63.6, and 64.6 urad during the middle 6 scans of the day., 61.5 urad for other scans), Dark current (50 frames, 26 coadds, 100 ms), All imaging with IRU Compensation Enabled. <
 |8/12/23| Dark current (1 frame, 37 coadds, 72 ms),**Working solar** (1 frame, 37 coadds, 72 ms, 32 degree), Dark current (50 frames, 26 coadds, 100 ms), **10 hourly Earth scans**, Dark current (50 frames, 26 coadds, 100 ms)
 |8/13/23| Dark current (1 frame, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms), <br> **No Earth Scans**
 |8/14/23| Dark current (1 frame, 37 coadds, 72 ms), Working solar (1 frame, 37 coadds, 72 ms, 31 degree)(command load interrupted), <br> **No Earth Scans**,
@@ -87,95 +85,42 @@ Working solar (1 frame, 37 coadds, 72 ms) Solar angle 30.5
 |8/31/23|Dark current (50 frames, 37 coadds, 72 ms), **Working solar **(1 frame, 37 coadds, 72 ms), 20 Earth scans, Optimized scanning, 14.50 hrs
 |9/1/23|Dark current (50 frames, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms), <br>
 **19 Earth scans **(S014 missing), Optimized scanning in the middle, 13.50 hrs, Characterization of FOR, E/W (2 times)
-|9/2/23|Dark current (50 frames, 37 coadds, 72 ms),Working solar (1 frame, 37 coadds, 72 ms), 20 Earth scans, Optimized scanning, 13.50 hrs
-|9/3/23|Dark current (50 frames, 37 coadds, 72 ms),
-Working solar (1 frame, 37 coadds, 72 ms)
-20 Earth scans, Optimized scanning
-|9/4/23| Dark current (50 frames, 37 coadds, 72 ms),
-Working solar (1 frame, 37 coadds, 72 ms)
-20 Earth scans, Optimized scanning
-|9/5/23|Dark current (50 frames, 37 coadds, 72 ms),
-Working solar (1 frame, 37 coadds, 72 ms)
-Optimized scanning: 23 Earth scans
-Step size characterization in the middle (40%, 60%, 80%, 100%) over New York. Texas, and LA regions,
-|9/6/23| **Working solar** (1 frame, 37 coadds, 72 ms)
-Optimized scanning: 20 Earth scans
+|9/2/23|Dark current (50 frames, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms), 20 Earth scans, Optimized scanning, 13.50 hrs
+|9/3/23|Dark current (50 frames, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms)
+**20 Earth scans**, Optimized scanning
+|9/4/23| Dark current (50 frames, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms)
+**20 Earth scans**, Optimized scanning
+|9/5/23|Dark current (50 frames, 37 coadds, 72 ms), Working solar (1 frame, 37 coadds, 72 ms), Optimized scanning: 23 Earth scans, Step size characterization in the middle (40%, 60%, 80%, 100%) over New York. Texas, and LA regions,
+|9/6/23| **Working solar** (1 frame, 37 coadds, 72 ms), Optimized scanning: 20 Earth scans
 |9/7/23|**Working solar** (1 frame, 37 coadds, 72 ms), Optimized scanning: 20 Earth scans
 |9/8/23| **TEMPO in safe mode**  No data due to safe mode
-|9/9/23| Working solar (1 frame, 37 coadds, 72 ms), Optimized scanning
-|9/10/23| Working solar (1 frame, 37 coadds, 72 ms), Optimized scanning, 10%, 20%, 50%, 100% step size characterization over New York in the middle
+|9/9/23| **Working solar** (1 frame, 37 coadds, 72 ms), Optimized scanning
+|9/10/23| **Working solar** (1 frame, 37 coadds, 72 ms), Optimized scanning, 10%, 20%, 50%, 100% step size characterization over New York in the middle
 |9/11/23| 2nd **Reference Solar** (1 frame, 37 coadds, 72 ms), Optimized scanning, **Interleaved special observation over Texas/hourly scans**
 |9/12/23| **Working solar** (1 frame, 37 coadds, 72 ms), Optimized scanning
 10%, 20%, 50%, 100% step size characterization over Texas in the middle
 |9/13/23| **Working solar** (1 frame, 37 coadds, 72 ms), Optimized scanning
 10%, 20%, 50%, 100% step size characterization over LA in the middle
-|9/14/23| Working solar (1 frame, 37 coadds, 72 ms), Optimized scanning
+|9/14/23| **Working solar** (1 frame, 37 coadds, 72 ms), Optimized scanning
 |9/15/23| **Working solar** (1 frame, 37 coadds, 72 ms, post mid-night), Optimized scanning, FOR characterization (2 times, Max dy & Min dy)
 |9/16/23| **Working solar** (1 frame, 37 coadds, 72 ms), Optimized scanning
-|9/17/23|Optimized scanning, **3 hours special observation over Texas (~17-20 UTC)**, Start weekly solar measurements
+|9/17/23| Optimized scanning, **3 hours special observation over Texas (~17-20 UTC)**, Start weekly solar measurements
 |9/18/23| Optimized scanning FOR characterization (2 times, Max dy & Min dy), **3 hours special observation over Texas (~17-20 UTC)**
-|9/19/23|Optimized scanning, Side slither Midpoint NY, dy=4400 to 0, 1hr, Side slither Midpoint Center FOR, dy=4400 to 0, 1 hr, Side slither Midpoint LA, dy=4400 to 0, 1hr, **2.5 hours special observation over Texas (~17.5-20 UTC)**
-|9/20/23|
-	Optimized scanning
-FOR characterization (2 times, Max dy & Min dy)
-	Part of ICA load 9
- 
-	9/21
-	Working solar (1 frame, 37 coadds, 72 ms)
-Optimized scanning
-	Part of ICA load 9
-ICA load 10 sent
-	9/22
-	Optimized scanning, 12.1 hrs imaging
- 
-	Part of ICA load 10
-New scan range started (expanded to include Chicago in morning, other cities in evening)
-	9/23
-	Optimized scanning (started around 14:20 UTC due to maneuver), 9.7 hrs imaging
- 
-	Part of ICA load 10
-	9/24
-	Optimized scanning, 12.1 hrs imaging
-	Part of ICA load 10
-	9/25
-	2 scans City lights (west coast)
-Optimized scanning, 14.6 hrs imaging
- 1 scan City lights
-	Part of ICA load 10
-No dark current corresponding to citylight are taken
-	9/26
-	2 scans City lights (west coast)
-Optimized scanning, 11.7 hrs imaging
- 
- 
-	Part of ICA load 10
-No dark current corresponding to citylight are taken
-	9/27
-	2 scans City lights (west coast)
-Optimized scanning, 14.6 hrs imaging
-Texas special observations (~12:20-14:20 UTC)
-1 scan City lights
-	Part of ICA load 10
-No dark current corresponding to citylight are taken
-	9/28
-	Working solar (1 frame, 37 coadds, 72 ms)
-Optimized scanning, 13.3 hrs Earth imaging
-Texas special observations (~12:20-14:20 UTC)
-	Part of ICA load 10
-ICA load 11 sent
- 
-	9/29
-	Optimized scanning, 13.3 hrs Earth imaging
- 
-	Part of ICA load 11
-Optimized scanning meeting the 1-hour revisit started
-	9/30
-	Optimized scanning, 11.3 hrs Earth imaging
-	Part of ICA load 11
-	10/1
-	Optimized scanning, 13.3 hrs Earth imaging
-	Part of ICA load 11
-	10/2
+|9/19/23| Optimized scanning, Side slither Midpoint NY, dy=4400 to 0, 1hr, Side slither Midpoint Center FOR, dy=4400 to 0, 1 hr, Side slither Midpoint LA, dy=4400 to 0, 1hr, **2.5 hours special observation over Texas (~17.5-20 UTC)**
+|9/20/23| Optimized scanning, FOR characterization (2 times, Max dy & Min dy), 
+|9/21/23| **Working solar** (1 frame, 37 coadds, 72 ms), Optimized scanning
+|9/22/23| Optimized scanning, 12.1 hrs imaging, New scan range started (expanded to include Chicago in morning, other cities in evening)
+|9/23/23| Optimized scanning (started around 14:20 UTC due to maneuver), 9.7 hrs imaging
+|9/24/23| Optimized scanning, 12.1 hrs imaging
+|9/25/23| 2 scans City lights (west coast), Optimized scanning, 14.6 hrs imaging,  1 scan City lights, No dark current corresponding to citylight are taken
+|9/26/23| 2 scans City lights (west coast), Optimized scanning, 11.7 hrs imaging,  No dark current corresponding to citylight are taken
+|9/27/23| 2 scans City lights (west coast), Optimized scanning, 14.6 hrs imaging
+**Texas special observations (~12:20-14:20 UTC)**, 1 scan City lights, No dark current corresponding to citylight are taken
+|9/28/23| **Working solar (1 frame, 37 coadds, 72 ms), Optimized scanning, 13.3 hrs Earth imaging, **Texas special observations (~12:20-14:20 UTC)**
+|9/29/23|Optimized scanning, 13.3 hrs Earth imaging, Optimized scanning meeting the 1-hour revisit started
+|9/30/23|Optimized scanning, 11.3 hrs Earth imaging
+|10/1/23|Optimized scanning, 13.3 hrs Earth imaging
+10/2
 	Optimized scanning, 13.3 hrs Earth imaging
 	Part of ICA load 11
 	10/3
