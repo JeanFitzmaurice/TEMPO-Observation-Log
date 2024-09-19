@@ -30,79 +30,34 @@ On going…, to be done for August, 2023 - May 12, 2024
 |7/28/23| storage/active region, 1 frame each, 100 ms, 26 coadds, 2 hours of active region dark current (active region, 26 coadds, 100 ms), storage/active region, 1 frame each, 100 ms, 26 coadds, storage/active region, 10 frame each, 178 ms, 15 coadds, dark current, 1 frame, 178 ms, 15 coadds, Check dark current/fpa & fpe temperature stability, Derive bad pixel map & RTS
 |7/30/23| storage/active region, 1 frame each, 100 ms, 26 coadds, 6 hours of dark current (active region, 26 coadds, 100 ms), storage/active region, 1 frame each, 100 ms, 26 coadds, Check dark current/fpa & fpe temperature stability, Derive bad pixel map & RTS
 |7/31/23| Dark current (1 frame, 26 coadds, 100 ms)
-|8/1/23| Dark current (1 frame, 37 coadds, 72 ms), **First light working solar** (1 frame, 37 coadds, 72 ms), Dark current (1 frame, 15 coadds, 178 ms), 	First light working solar diffuser (solar measurements & its corresponding dark is placed in  a folder for previous day)
-|8/2/23| Dark current (1 frame, 37 coadds, 72 ms), **First light reference solar** (1 frame, 37 coadds, 72 ms), Storage/Active Dark current (1 frame each, 37 coadds, 72 ms), **First light earth scans**: 6 nearly hourly scans (1230 mirror steps, 100 ms, 26 coadds), Storage/Active Dark current (1 frame each, 37 coadds, 72 ms), First light reference diffuser & Earth measurements
-|8/3/23| Dark current (1 frame, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms), Dark current (1 frame, 15 coadds, 178 ms), **2nd working solar**, **No Earth scans**
-|8/4/23|  Dark current (1 frame, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms), 7 sets of dark (0 exposure time, storage with 37 coadds/72 ms, active with 72ms/37coadds, active with 100 ms/26 coadds, active with 178 ms/15 coadds,active with 2.67s/1 coadd, active with 6 s/1 coadd), **11 hourly Earth scans** (each Earth scan is followed by Storage/active dark current with 100 ms/26 coadds), Another 7 sets of dark (mostly occur 8/5 T00-T01, still 8/4 in ET), Part of Instrument Characterization Analysis (ICA) load 1, **3rd working solar**, Two times of 7 sets of dark current measurements to understand dark vs integration time, storage region dark current, storage region dark current during readout, **11 hourly Earth scans**,  Dark current measurements after each hourly scan (check dark current stability)
-|8/5/23| Storage/active dark current with 100 ms/26 coadds, **11 hourly Earth scans**, Storage/active dark current with 100 ms/26 coadds, 	Part of ICA load 1
-|8/6/23|Dark current (1 frame, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms), **11 hourly Earth scans**, Storage/active dark current with 100 ms/26 coadds, Part of ICA load 1
-|8/7/23| Dark current (1 frame, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms), Storage/active dark current with 100 ms/26 coadds, **11 hourly Earth scans**,  Storage/active dark current with 100 ms/26 coadds, Part of ICA load 1 (Instrument Characterization and Analysis)
-|8/8/23|Dark current (1 frame, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms, Dark current (1 frame, 15 coadds, 178 ms), Dark current (50 frames, 26 coadds, 100 ms), **6 hourly Earth scans**, Dark current (50 frames, 26 coadds, 100 ms), Part of ICA load 2, The 3 tables (scan profile, CBM, CSM) were loaded individually. On 08/08, 6 hours of Earth Imaging with IRU Compensation Enabled. On 08/09, Full ConOps Imaging with IRU Compensation Enabled
-|8/9/29| Dark current (1 frame, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms), Dark current (50 frames, 26 coadds, 100 ms), **11 hourly Earth scans**, Dark current (50 frames, 26 coadds, 100 ms), Part of ICA load 2
-|8/10/23| Dark current (1 frame, 37 coadds, 72 ms)
-Working solar (1 frame, 37 coadds, 72 ms
-Dark current (1 frame, 15 coadds, 178 ms)
-	Part of ICA load 2
-**No Earth Scans**
-|8/11/23| Dark current (1 frame, 37 coadds, 72 ms)
-Working solar (1 frame, 37 coadds, 72 ms)
-Dark current (50 frames, 26 coadds, 100 ms)
-11 hourly Earth scans (Uses step sizes of 62.5, 63.6, and 64.6 urad during the middle 6 scans of the day., 61.5 urad for other scans)
-Dark current (50 frames, 26 coadds, 100 ms)
-	Part of ICA load 3
-Contains 6 table loads (4 scan profile, 1 CBM, 1 CSM) (164 KB)
-All imaging with IRU Compensation Enabled.
-On 08/11, Solar Cal (30 degrees), ConOps Imaging, Uses step sizes of 62.5, 63.6, and 64.6 urad during the middle 6 scans of the day. Uses 61.5 urad for all other scans.
-On 08/12, Solar Cal (32 degrees). Full ConOps Imaging (with 61.5 urad). On 08/13, Solar Cal (30.0 degrees). No Earth Imaging. On 08/14, Solar Cal (31 degrees).
-Command interrupted on 8/14 (originally planned until 8/17 solar only)
-	8/12
-	Dark current (1 frame, 37 coadds, 72 ms)
-Working solar (1 frame, 37 coadds, 72 ms, 32 degree)
-Dark current (50 frames, 26 coadds, 100 ms)
-10 hourly Earth scans
-Dark current (50 frames, 26 coadds, 100 ms)
- 
-	Part of ICA load 3
- 
-	8/13
-	Dark current (1 frame, 37 coadds, 72 ms)
-Working solar (1 frame, 37 coadds, 72 ms)
- 
-	Part of ICA load 3
-No Earth Scans
- 
-	8/14
-	Dark current (1 frame, 37 coadds, 72 ms)
-Working solar (1 frame, 37 coadds, 72 ms, 31 degree)
-	Part of ICA load 3 (command load interrupted)
-No Earth Scans
-	8/15
-	Dark current (1 frame, 15 coadds, 178 ms)
-Dark current (50 frames, 26 coadds, 100 ms)
-7 hourly Earth scans
-Dark current (50 frames, 26 coadds, 100 ms)
- 
-	Part of ICA load 4 (with IRU compensation)
-	8/16
-	Dark current (50 frames, 37 coadds, 72 ms)
-Working solar (1 frame, 37 coadds, 72 ms)
-Dark current (50 frames, 26 coadds, 100 ms)
-13 hourly Earth scans
-Dark current (50 frames, 26 coadds, 100 ms)
- 
-	Part of ICA load 4
-	8/17
-	Dark current (50 frames, 26 coadds, 100 ms), wrong integration time
+|8/1/23| Dark current (1 frame, 37 coadds, 72 ms), **First light working solar** (1 frame, 37 coadds, 72 ms), Dark current (1 frame, 15 coadds, 178 ms)
+|8/2/23| Dark current (1 frame, 37 coadds, 72 ms), **First light reference solar** (1 frame, 37 coadds, 72 ms), Storage/Active Dark current (1 frame each, 37 coadds, 72 ms), **First light earth scans**: **6 nearly hourly scans** (1230 mirror steps, 100 ms, 26 coadds), Storage/Active Dark current (1 frame each, 37 coadds, 72 ms), First light reference diffuser & Earth measurements
+|8/3/23| Dark current (1 frame, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms), Dark current (1 frame, 15 coadds, 178 ms), <br> **No Earth scans**
+|8/4/23|  Dark current (1 frame, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms), 7 sets of dark (0 exposure time, storage with 37 coadds/72 ms, active with 72ms/37coadds, active with 100 ms/26 coadds, active with 178 ms/15 coadds,active with 2.67s/1 coadd, active with 6 s/1 coadd), **11 hourly Earth scans** (each Earth scan is followed by Storage/active dark current with 100 ms/26 coadds), Another 7 sets of dark (mostly occur 8/5 T00-T01, still 8/4 in ET), Two times of 7 sets of dark current measurements to understand dark vs integration time, storage region dark current, storage region dark current during readout, **11 hourly Earth scans**,  Dark current measurements after each hourly scan (check dark current stability)
+|8/5/23| Storage/active dark current with 100 ms/26 coadds, **11 hourly Earth scans**, Storage/active dark current with 100 ms/26 coadds
+|8/6/23|Dark current (1 frame, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms), **11 hourly Earth scans**, Storage/active dark current with 100 ms/26 coadds
+|8/7/23| Dark current (1 frame, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms), Storage/active dark current with 100 ms/26 coadds, **11 hourly Earth scans**,  Storage/active dark current with 100 ms/26 coadds
+|8/8/23|Dark current (1 frame, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms, Dark current (1 frame, 15 coadds, 178 ms), Dark current (50 frames, 26 coadds, 100 ms), **6 hourly Earth scans**, Dark current (50 frames, 26 coadds, 100 ms)he 3 tables (scan profile, CBM, CSM) On 08/08, 6 hours of Earth Imaging with IRU Compensation Enabled. On 08/09, Full ConOps Imaging with IRU Compensation Enabled
+|8/9/29| Dark current (1 frame, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms), Dark current (50 frames, 26 coadds, 100 ms), **11 hourly Earth scans**, Dark current (50 frames, 26 coadds, 100 ms)
+|8/10/23| Dark current (1 frame, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms, Dark current (1 frame, 15 coadds, 178 ms)**No Earth Scans**
+|8/11/23| Dark current (1 frame, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms), Dark current (50 frames, 26 coadds, 100 ms), **11 hourly Earth scans** (Uses step sizes of 62.5, 63.6, and 64.6 urad during the middle 6 scans of the day., 61.5 urad for other scans), Dark current (50 frames, 26 coadds, 100 ms), All imaging with IRU Compensation Enabled. <br>
+On 08/11, Solar Cal (30 degrees), ConOps Imaging, Uses step sizes of 62.5, 63.6, and 64.6 urad during the middle 6 scans of the day. Uses 61.5 urad for all other scans. <br>
+On 08/12, Solar Cal (32 degrees). Full ConOps Imaging (with 61.5 urad). On 08/13, Solar Cal (30.0 degrees). No Earth Imaging. On 08/14, Solar Cal (31 degrees). Command interrupted on 8/14 (originally planned until 8/17 solar only)
+|8/12/23| Dark current (1 frame, 37 coadds, 72 ms),**Working solar** (1 frame, 37 coadds, 72 ms, 32 degree), Dark current (50 frames, 26 coadds, 100 ms), **10 hourly Earth scans**, Dark current (50 frames, 26 coadds, 100 ms)
+|8/13/23| Dark current (1 frame, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms), **No Earth Scans**
+|8/14/23| Dark current (1 frame, 37 coadds, 72 ms), Working solar (1 frame, 37 coadds, 72 ms, 31 degree)(command load interrupted),**No Earth Scans**,
+|8/15/23|Dark current (1 frame, 15 coadds, 178 ms), Dark current (50 frames, 26 coadds, 100 ms), **7 hourly Earth scans**, Dark current (50 frames, 26 coadds, 100 ms), scans with IRU compensation
+|8/16/23|Dark current (50 frames, 37 coadds, 72 ms), **Working solar** (1 frame, 37 coadds, 72 ms), Dark current (50 frames, 26 coadds, 100 ms), **13 hourly Earth scans**, Dark current (50 frames, 26 coadds, 100 ms)
+|8/17/23| Dark current (50 frames, 26 coadds, 100 ms), wrong integration time
 Working solar (15 frames, 37 coadds, 72 ms)
 Dark current (50 frames, 26 coadds, 100 ms), wrong integration time
 Dark current (1 frame, 26 coadds, 100 ms)
 Dark current (50 frames, 26 coadds, 100 ms),
-6 hourly Earth scans (4 scans for cloud saturations)
+**6 hourly Earth scans** (4 scans for cloud saturations)
 Dark current (50 frames, 26 coadds, 100 ms),
-	Part of ICA load 4
 (interrupted after 15 frames of solar repeat)
-ICA load 5 started with 6 hourly scans to test cloud saturation (including 50ms+51 coadds, 178ms/15 coadds, 50ms+51 coadds, 178ms/15 coadds, 2 scans of 100ms/26 coadds)
-	8/18
+Command load started with 6 hourly scans to test cloud saturation (including 50ms+51 coadds, 178ms/15 coadds, 50ms+51 coadds, 178ms/15 coadds, 2 scans of 100ms/26 coadds)
+|8/18/23|
 	Dark current (50 frames, 37 coadds, 72 ms)
 Working solar (1 frame, 37 coadds, 72 ms)
 Special dark: 50 images 1 coadd at 14 ITs
