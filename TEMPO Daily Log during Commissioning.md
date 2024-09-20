@@ -89,7 +89,7 @@ August, 2023 - May 12, 2024
 |9/25/23| 2 scans City lights (west coast), Optimized scanning, 14.6 hrs imaging,  1 scan City lights, No dark current corresponding to citylight are taken
 |9/26/23| 2 scans City lights (west coast), Optimized scanning, 11.7 hrs imaging,  No dark current corresponding to citylight are taken
 |9/27/23| 2 scans City lights (west coast), Optimized scanning, 14.6 hrs imaging, **Texas special observations (~12:20-14:20 UTC)**, 1 scan City lights, No dark current corresponding to citylight are taken
-|9/28/23| **Working solar (1 frame, 37 coadds, 72 ms), Optimized scanning, 13.3 hrs Earth imaging, **Texas special observations (~12:20-14:20 UTC)**
+|9/28/23| **Working solar** (1 frame, 37 coadds, 72 ms), Optimized scanning, 13.3 hrs Earth imaging, **Texas special observations (~12:20-14:20 UTC)**
 |9/29/23|Optimized scanning, 13.3 hrs Earth imaging, Optimized scanning meeting the 1-hour revisit started
 |9/30/23|Optimized scanning, 11.3 hrs Earth imaging
 |10/1/23|Optimized scanning, 13.3 hrs Earth imaging
