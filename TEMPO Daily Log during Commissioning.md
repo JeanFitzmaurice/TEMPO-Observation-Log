@@ -17,7 +17,8 @@ August-September were completed.
 
 
 Reprocessing with SDPC v4.4 (or Version 3):
-On going…, to be done for August, 2023 - May 12, 2024
+August, 2023 - May 12, 2024
+
 |Date | Log |
 |:-| ----|
 |6/8/23| Dark current (storage & active region, 10 frames each, 178 ms, 15 coadds, ~-21° FPA 29.5° FPE <br> **First TEMPO measurement after TEMPO power-on 6/7/23** |
