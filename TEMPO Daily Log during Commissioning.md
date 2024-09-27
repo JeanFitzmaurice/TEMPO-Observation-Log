@@ -2,7 +2,7 @@
 (June 07, 2023 – October 16, 2023)
 
 
-Xiong Liu
+Xiong Liu and Jean Fitzmaurice
 
 
 Last updated on 12/21/2023
@@ -83,14 +83,14 @@ August, 2023 - May 12, 2024
 |9/19/23| Optimized scanning, Side slither Midpoint NY, dy=4400 to 0, 1hr, Side slither Midpoint Center FOR, dy=4400 to 0, 1 hr, Side slither Midpoint LA, dy=4400 to 0, 1hr, **2.5 hours special observation over Texas (~17.5-20 UTC)**
 |9/20/23| Optimized scanning, FOR characterization (2 times, Max dy & Min dy), 
 |9/21/23| **Working solar** (1 frame, 37 coadds, 72 ms), Optimized scanning
-|9/22/23| Optimized scanning, 12.1 hrs imaging, New scan range started (expanded to include Chicago in morning, other cities in evening)
+|9/22/23| Optimized scanning, 12.1 hrs imaging, **New scan range for Optimized scans started** (expanded to include Chicago in morning, other cities in evening) **2/3 FoR** (versus 1/2 FoR).
 |9/23/23| Optimized scanning (started around 14:20 UTC due to maneuver), 9.7 hrs imaging
 |9/24/23| Optimized scanning, 12.1 hrs imaging
 |9/25/23| 2 scans City lights (west coast), Optimized scanning, 14.6 hrs imaging,  1 scan City lights, No dark current corresponding to citylight are taken
 |9/26/23| 2 scans City lights (west coast), Optimized scanning, 11.7 hrs imaging,  No dark current corresponding to citylight are taken
 |9/27/23| 2 scans City lights (west coast), Optimized scanning, 14.6 hrs imaging, **Texas special observations (~12:20-14:20 UTC)**, 1 scan City lights, No dark current corresponding to citylight are taken
 |9/28/23| **Working solar** (1 frame, 37 coadds, 72 ms), Optimized scanning, 13.3 hrs Earth imaging, **Texas special observations (~12:20-14:20 UTC)**
-|9/29/23|Optimized scanning, 13.3 hrs Earth imaging, Optimized scanning meeting the 1-hour revisit started
+|9/29/23|Optimized scanning, 13.3 hrs Earth imaging, Optimized scanning meeting the 1-hour revisit started. <br> **Set new parameters**: Moved FOR west 1537 urad to meet FOR coverage requirement near west coast(120W, 19N). New parameters of 1180 number of steps and 64 urad step size to meet 1 hr revisit time. (it was 1229 steps and 61.5 urad step size since First Light 8/2/23). 
 |9/30/23|Optimized scanning, 11.3 hrs Earth imaging
 |10/1/23|Optimized scanning, 13.3 hrs Earth imaging
 |10/2/23|Optimized scanning, 13.3 hrs Earth imaging
