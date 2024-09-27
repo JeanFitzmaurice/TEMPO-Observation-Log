@@ -2,7 +2,7 @@
 (June 07, 2023 – October 16, 2023)
 
 
-Xiong Liu and Jean Fitzmaurice
+Xiong Liu, Jean Fitzmaurice
 
 
 Last updated on 09/20/2024
